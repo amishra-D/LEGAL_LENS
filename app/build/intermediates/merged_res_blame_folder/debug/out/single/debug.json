@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/drawable_splash_screen.png.flat",
+        "source": "com.google.ai.sample.app-main-66:/drawable/splash_screen.png"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/drawable_spl.png.flat",
+        "source": "com.google.ai.sample.app-main-66:/drawable/spl.png"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/font_mouse_memoirs.ttf.flat",
+        "source": "com.google.ai.sample.app-main-66:/font/mouse_memoirs.ttf"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/font_candal.ttf.flat",
+        "source": "com.google.ai.sample.app-main-66:/font/candal.ttf"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/xml_data_extraction_rules.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/font_iceberg.ttf.flat",
+        "source": "com.google.ai.sample.app-main-66:/font/iceberg.ttf"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/font_archivo_black.ttf.flat",
+        "source": "com.google.ai.sample.app-main-66:/font/archivo_black.ttf"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/font_lexend_bold.ttf.flat",
+        "source": "com.google.ai.sample.app-main-66:/font/lexend_bold.ttf"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/xml_backup_rules.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/drawable_untitled_design__7_.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/drawable/untitled_design__7_.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/layout_activity_splashscreenactivity.xml.flat",
+        "source": "com.google.ai.sample.app-main-66:/layout/activity_splashscreenactivity.xml"
+    },
+    {
+        "merged": "com.google.ai.sample.app-merged_res-64:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.google.ai.sample.app-main-66:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    }
+]
